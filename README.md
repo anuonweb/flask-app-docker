@@ -1,3 +1,5 @@
+NOTE: Original Auther of the file is NICKJJ. Any version updates required. Please look for nickjj/docker-flask-example
+
 # An example Flask + Docker app
 
 ![CI](https://github.com/nickjj/docker-flask-example/workflows/CI/badge.svg?branch=main)
